@@ -15,5 +15,8 @@ public class RunApplication {
         //User sellect
         System.out.println("Select the console device type: ");
         System.out.println("1. PlayStation");
+        System.out.println("2. Xbox");
+        System.out.println("3. Switch");
+        System.out.println("Enter your choice: "); 
     }
 }
