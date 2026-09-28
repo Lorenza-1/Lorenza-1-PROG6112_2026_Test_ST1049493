@@ -3,11 +3,17 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
 package com.mycompany.number1electronicsreport;
-
+import java.util.Scanner;
 /**
  *
  * @author emeris
  */
 public class RunApplication {
-    
+    public static void main(String[] args){
+        Scanner input = new Scanner(System.in);
+        
+        //User sellect
+        System.out.println("Select the console device type: ");
+        System.out.println("1. PlayStation");
+    }
 }
