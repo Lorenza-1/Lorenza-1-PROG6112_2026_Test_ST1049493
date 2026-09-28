@@ -8,6 +8,7 @@ package com.mycompany.number1electronicsreport;
  *
  * @author emeris
  */
+
 public abstract class Consoles implements IConsoles {
 private String consoleType;
 private String storeName;
